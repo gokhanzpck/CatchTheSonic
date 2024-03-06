@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="siyah">#14140F</color>
+    <color name="yesil">#025159</color>
+    <color name="turuncu">#F26800</color>
+    <color name="acıkyesil">#75B2BF</color>
+    <color name="lacivert">#011526</color>
+    <color name="buzmavisi">#C9DFF2</color>
+    <color name="mavi">#5496BF</color>
+
+
+
+
+</resources>
